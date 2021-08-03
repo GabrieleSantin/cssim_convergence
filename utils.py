@@ -47,13 +47,6 @@ def cf(f,c=1e-5):
     
 def cf_g(f, g, c=1e-5):
     return 4 / (sigma(f, f) + sigma(g, g) + c) + 1 / (f.mean() ** 2 + g.mean() ** 2 + c)
-   
-
-def divide_(a, b):
-    if b.all() == 0:
-        return np.nan
-    else: 
-        return a/b
 
 
 def divide(a, b):
