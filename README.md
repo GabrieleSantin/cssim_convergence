@@ -1,7 +1,7 @@
 # Convergence results in image interpolation with the continuous SSIM 
 This repository contains the code to replicate the experiments of the paper
 
-> F. Marchetti and G. Santin, _Convergence results in image interpolation with the continuous SSIM_ (2021)
+> F. Marchetti and G. Santin, _Convergence results in image interpolation with the continuous SSIM_ (2021).
 
 
 
@@ -17,4 +17,6 @@ To test the code, you can run one of the three example:
 
 ## Dependencies and sources
 
-The code uses
+The file [kernels.py](kernels.py) is taken from the [VKOGA](https://github.com/GabrieleSantin/VKOGA) package.
+
+A complete list of dependencies can be found in the file [requirements.txt](requirements.txt).
