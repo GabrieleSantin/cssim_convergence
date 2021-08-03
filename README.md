@@ -9,8 +9,8 @@ This repository contains the code to replicate the experiments of the paper
 
 To test the code, you can run one of the three examples:
 
-* [Example1_linear_and_bicubic_interpolation.ipynb](Example1_linear_and_bicubic_interpolation.ipynb): Example of kernel interpolation.
-* [Example2_kernel_interpolation.ipynb](Example2_kernel_interpolation.ipynb): Example of bilinear and bicubic interpolation.
+* [Example1_linear_and_bicubic_interpolation.ipynb](Example1_linear_and_bicubic_interpolation.ipynb): Example of bilinear and bicubic interpolation.
+* [Example2_kernel_interpolation.ipynb](Example2_kernel_interpolation.ipynb): Example of kernel interpolation.
 * [Example3_image_interpolation.ipynb](Example3_image_interpolation.ipynb): Example of bilinear and bicubic interpolation applied to images.
 
 
